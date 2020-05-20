@@ -1,0 +1,15 @@
+bin/pm2.yaml
+.idea/
+node_modules/
+.vscode/
+.history/
+.DS_Store
+test/coverage/
+milestones.txt
+log.csv
+!**/.keep
+runtime/customer_logs/
+config/local.yaml
+config/local-*.*
+settings.sqlite3
+config.js

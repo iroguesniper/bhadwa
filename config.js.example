@@ -1,0 +1,8 @@
+module.exports = {
+    bot: {
+        token: '',
+        inviteLink: '',
+        activity: '',
+        status: '',
+    },
+}
